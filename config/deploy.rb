@@ -2,7 +2,7 @@
 lock "3.7.1"
 
 set :application, "blog"
-set :repo_url, "github.com/ZengGIFT/tem_p.git"
+set :repo_url, "git@github.com:ZengGIFT/tem_p.git"
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
